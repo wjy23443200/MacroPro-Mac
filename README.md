@@ -136,4 +136,4 @@ python -m PyInstaller --noconfirm MacroPro.spec
 
 ## 项目说明
 
-本页栏目组织参考了 [KeymouseGo](https://github.com/taojy123/KeymouseGo) 的项目介绍方式，功能与源码为本项目自身实现。第三方组件适用各自许可证，见 THIRD_PARTY_NOTICES.md。本仓库目前未为自有源码另行指定开源许可证。
+功能与源码为本项目自身实现。第三方组件适用各自许可证，见 THIRD_PARTY_NOTICES.md。本仓库目前未为自有源码另行指定开源许可证。
